@@ -1,0 +1,3 @@
+export const PEOPLE_START = 'PEOPLE_START';
+export const PEOPLE_SUCCESS = 'PEOPLE_SUCCESS';
+export const PEOPLE_FAIL = 'PEOPLE_FAIL';

@@ -1,0 +1,15 @@
+footer {
+    background: rgba(15, 110, 255, 0.03);
+    border: 1px solid #CACACA;
+    color: #606062;
+}
+
+.footer-content-heading-color {
+    color: #525252;
+}
+
+.footer-content-list>a {
+    margin: 5px 0px;
+    text-decoration: none;
+    color: #606062;
+}
